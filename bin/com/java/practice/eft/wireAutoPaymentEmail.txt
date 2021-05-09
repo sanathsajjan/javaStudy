@@ -1,0 +1,38 @@
+This funds transfer was received for $87.50.
+The funds have been CREDITED to account # **********7878.
+                         
+Sender:
+        Name                   :  Federal Credit Union
+        ABA #                 :  123456
+        Reference #         :  3867500203JO
+        Received from     :  111111
+        By Order Of        :  sender name for 00007-0001
+        Value Date	         : 2020-01-20 00:00:00
+                
+
+OMAD Reference #         :  20150722L1B78H1C00132707221451FT03
+
+Additional Funds Transfer Information:
+
+Beneficiary: NATIONAL MORTGAGE INSURANCE CORPORA
+
+Beneficiary Bank: 
+
+                               * * *
+
+Originator Info: Federal Credit Union
+
+Originator Bank: 
+
+Originator Bank Info: 
+
+
+Bank to Bank and all other FRB info fields:
+
+Thanks
+Sanath B T | sanath.bt@tavant.com
+Contact No : +91 (80) 41190300,3022| Mobile number : +91 9538001402
+
+Tavant | www.tavant.com 
+No.31, Grape Garden,17th H Main, 6th Block,Koramangala, Bangalore 560 095 India
+
